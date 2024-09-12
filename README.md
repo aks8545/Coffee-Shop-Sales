@@ -1,4 +1,4 @@
-# Coffee-Shop-SalesCoffee Shop Sales Analysis - Excel Project
+# Coffee Shop Sales Analysis - Excel Project
 
 This project is a comprehensive sales analysis for a coffee shop, completed using Microsoft Excel. Guided by Ayushi Jain from WsCube Tech, the project focuses on extracting meaningful insights from sales data to aid business decision-making.
 
